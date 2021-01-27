@@ -1,1 +1,2 @@
-# WASD Revolution is a windows commandline game
+# WASD Revolution
+is a windows commandline game
